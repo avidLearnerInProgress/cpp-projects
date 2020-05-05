@@ -1,19 +1,9 @@
 # Route Planning Project
 
 This repo contains the starter code for the Route Planning project.
-
+<div align="center">
 <img src="map.png" width="600" height="450" />
-
-## Cloning
-
-When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
-```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
-```
-or with SSH:
-```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
-```
+</div>
 
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
@@ -58,4 +48,3 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 ```
-
